@@ -746,9 +746,13 @@ ul.social-buttons {
 }
 
 /* !: sponsor --------------- */
-aside.clients img {
+
+aside.clients {
+	padding: 40px;
+	img {
   width: 80%;
   margin: 50px auto;
+  }
 }
 
 /* !: party ----------------- */
